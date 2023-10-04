@@ -1,0 +1,69 @@
+
+
+.b{
+font-size: 20px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 90;
+    padding: 0px;
+    column-rule-color: brown;
+    border: 100px black;
+    text-align: center;
+  }
+  
+  .response {
+    max-width: 400px;
+    margin: 10 auto;
+   
+  }
+  
+  input {
+    width: 88%;
+    padding: 14px;
+    margin-bottom: 10px;
+    color: rgb(215, 16, 16);
+    text-align: left;
+  }
+  
+  button {
+    padding: 20px 26px;
+    color: blue;
+    font-size: 15;
+    
+  }
+  
+  
+  
+  body{
+    background: linear-gradient(to right,#ce8eec,#9f13ea,#841abc,#500479);
+    background-image: url("password\ cracker.gif");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    color: #fb0909;
+}
+div
+{max-width: 190px;
+    margin: 10 auto;
+    color:  #fb0909;
+
+    text-align: center;
+}
+.cb {
+    height: 3%;
+    width: 11%;
+
+
+}
+div.font
+{
+  font-size: medium;
+}
+   
+   
+ 
+ 
